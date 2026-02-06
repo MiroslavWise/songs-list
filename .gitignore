@@ -26,3 +26,5 @@ lerna-debug.log*
 history
 .history
 /history
+
+/react
