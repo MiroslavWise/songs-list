@@ -119,5 +119,22 @@
     "messageText": 0,
     "messageDocs": 0,
     "chord": "E"
+  },
+  {
+    "id": 160465493,
+    "number": "49",
+    "title": "Бог мой храни меня",
+    "messageText": 0,
+    "messageDocs": 0,
+    "chord": "F"
+  },
+  {
+    "id": 835487865,
+    "number": "48",
+    "title": "Не в словах молитвенных речей",
+    "messageText": 0,
+    "messageDocs": 0,
+    "youtube": "https://youtu.be/cdaFW79xLlM?si=E8teMJEHiY57gcov",
+    "chord": "D"
   }
 ]
