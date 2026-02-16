@@ -868,5 +868,14 @@
     "messageText": 0,
     "messageDocs": 0,
     "chord": "C"
+  },
+  {
+    "id": 863825297,
+    "number": "105",
+    "title": "Мой Маяк",
+    "messageText": 0,
+    "messageDocs": 0,
+    "youtube": "https://youtu.be/94uvDs-v86c?si=DRDKCsVB_j9tKV0r",
+    "chord": "A"
   }
 ]
