@@ -242,15 +242,6 @@
     "youtube": "https://youtu.be/uP_BmTaUn-k?si=eK9Gwe9MVaCXSYQh"
   },
   {
-    "id": 514448055,
-    "number": "29",
-    "title": "Она прекрасней лебедей",
-    "messageText": 189,
-    "messageDocs": 190,
-    "youtube": "https://youtu.be/7BM0MqhpZD8?si=UnSva9ob1ch0x606",
-    "chord": "E"
-  },
-  {
     "id": 626690981,
     "number": "30",
     "title": "Я славлю Тебя в шторм",
@@ -771,6 +762,15 @@
     "youtube": "https://youtu.be/Xk-tx4aZEH8?si=ZoIMFQObb7OEYcuQ"
   },
   {
+    "id": 514448055,
+    "number": "103",
+    "title": "Она прекрасней лебедей",
+    "messageText": 189,
+    "messageDocs": 190,
+    "youtube": "https://youtu.be/7BM0MqhpZD8?si=UnSva9ob1ch0x606",
+    "chord": "E"
+  },
+  {
     "id": 449155545,
     "number": "104",
     "title": "Нет, не я, но Христос",
@@ -811,6 +811,15 @@
     "title": "Верность Твоя велика, о, мой Боже",
     "messageText": 263,
     "messageDocs": 0
+  },
+  {
+    "id": 465003488,
+    "number": "125",
+    "title": "Наш Царь превыше",
+    "messageText": 26,
+    "messageDocs": 27,
+    "youtube": "https://youtu.be/75v9_soQgYc?si=sk8luIV6s5xhlwmH",
+    "chord": "D"
   },
   {
     "id": 9200025006,
