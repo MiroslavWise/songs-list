@@ -52,5 +52,42 @@
     "youtube": "https://youtu.be/0ZrvDX7Bruk?si=b4i58CG8nH0gliUP",
     "chord": "G",
     "instrumental": 15
+  },
+
+  {
+    "id": 673696174,
+    "number": "",
+    "title": "Ты спас моё сердце",
+    "messageText": 0,
+    "messageDocs": 0,
+    "youtube": "https://youtu.be/o1TuItAQaxY?si=38SDJ8uik83PYQ8i",
+    "chord": "D"
+  },
+  {
+    "id": 523289481,
+    "number": "",
+    "title": "Он посреди огня со мною",
+    "messageText": 0,
+    "messageDocs": 0,
+    "youtube": "https://youtu.be/15V0fAlfs7Y?si=XuupK25fCbkVCoMj",
+    "chord": "A"
+  },
+  {
+    "id": 242634571,
+    "number": "",
+    "title": "Ты нес меня над водою",
+    "messageText": 0,
+    "messageDocs": 0,
+    "youtube": "https://youtu.be/wc0RXKXWxAQ?si=Cdw0V9oi0qyngKc-",
+    "chord": "C"
+  },
+  {
+    "id": 515589739,
+    "number": "",
+    "title": "Измени меня",
+    "messageText": 0,
+    "messageDocs": 0,
+    "youtube": "https://youtu.be/VIz3w_QXpmM?si=plFow_tRFG7Hj5nM",
+    "chord": "G"
   }
 ]
