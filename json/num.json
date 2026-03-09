@@ -750,8 +750,7 @@
     "number": "96",
     "title": "Суверенный, Боже, Ты!",
     "messageText": 0,
-    "messageDocs": 0,
-    "youtube": ""
+    "messageDocs": 0
   },
   {
     "id": 799367719,
@@ -832,8 +831,7 @@
     "number": "123",
     "title": "Благодарю (Благодарю Тебя, Отец Небесный)",
     "messageText": 0,
-    "messageDocs": 0,
-    "youtube": ""
+    "messageDocs": 0
   },
   {
     "id": 465003488,
@@ -866,6 +864,24 @@
     "title": "Ты объемдешь меня",
     "messageText": 3,
     "messageDocs": 4,
+    "chord": "C"
+  },
+  {
+    "id": 996695543,
+    "number": "389",
+    "title": "Одна благая весть",
+    "messageText": 0,
+    "messageDocs": 0,
+    "youtube": "https://youtu.be/z3EeBaAq7BM?si=PEEyrGhgVZfKXP1u",
+    "chord": "A"
+  },
+  {
+    "id": 336023077,
+    "number": "390",
+    "title": "Взор направь к Иисусу",
+    "messageText": 0,
+    "messageDocs": 0,
+    "youtube": "https://youtu.be/F2tKVqZZiI4?si=C8--75Jc73xNM68J",
     "chord": "C"
   }
 ]
