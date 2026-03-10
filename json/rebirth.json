@@ -3,8 +3,6 @@
     "id": 835487865,
     "number": "48",
     "title": "Не в словах молитвенных речей",
-    "messageText": 0,
-    "messageDocs": 0,
     "youtube": "https://youtu.be/cdaFW79xLlM?si=E8teMJEHiY57gcov",
     "chord": "D"
   },
@@ -12,8 +10,6 @@
     "id": 160465493,
     "number": "49",
     "title": "Бог мой храни меня",
-    "messageText": 0,
-    "messageDocs": 0,
     "chord": "F"
   },
   {
@@ -21,206 +17,164 @@
     "number": "145",
     "title": "Когда безбрежный рокот океана",
     "messageText": 265,
-    "messageDocs": 0,
     "youtube": "https://youtu.be/E7OxBGBZnzw?si=HBbr1576EnAqzDVx"
   },
   {
     "id": 201162515,
     "number": "166",
     "title": "Пусть земля вся утверждает",
-    "messageText": 266,
-    "messageDocs": 0
+    "messageText": 266
   },
   {
     "id": 309708887,
     "number": "184",
     "title": "Твёрдо я верю",
-    "messageText": 0,
-    "messageDocs": 0,
     "chord": "C"
   },
   {
     "id": 856899030230,
     "number": "230",
-    "title": "От греха я спасён",
-    "messageText": 0,
-    "messageDocs": 0
+    "title": "От греха я спасён"
   },
   {
     "id": 856899030,
     "number": "248",
     "title": "Люблю, Господь, Твой дом",
-    "messageText": 0,
-    "messageDocs": 0,
     "chord": "E"
   },
   {
     "id": 512208177,
     "number": "421",
     "title": "Знаешь ли ручей, что бежит",
-    "messageText": 0,
-    "messageDocs": 0,
     "youtube": "https://youtu.be/M-4SAFhq94Q?si=rR10M0azpB6Lv-eC"
   },
   {
     "id": 391119572,
     "number": "589",
     "title": "Что за Друга мы имеем",
-    "messageText": 0,
-    "messageDocs": 0,
     "youtube": "https://youtu.be/6Kd7qPliK1Y?si=rzNEOz6iEMBLqrUq"
   },
   {
     "id": 657943703,
     "number": "621",
     "title": "Он жив! Он жив!",
-    "messageText": 0,
-    "messageDocs": 0,
     "youtube": "https://youtu.be/Mh3dq_jfGSM?si=r-tkXWrPj-tm5Uh5"
   },
   {
     "id": 370939238,
     "number": "794",
-    "title": "Долго в сумраке скитался (в)",
-    "messageText": 0,
-    "messageDocs": 0
+    "title": "Долго в сумраке скитался (в)"
   },
   {
     "id": 8417357161110,
     "number": "1110",
-    "title": "Скоро, очень скоро",
-    "messageText": 0,
-    "messageDocs": 0,
-    "youtube": ""
+    "title": "Скоро, очень скоро"
   },
   {
     "id": 841735716,
     "number": "1159",
     "title": "Мы входим в Божии врата со славословием",
-    "messageText": 0,
-    "messageDocs": 0,
     "youtube": "https://youtu.be/zHtWWedL7-U?si=goqU083oZmpiEQ9h"
   },
   {
     "id": 573563548,
     "number": "1194",
     "title": "Хвала Тебе, наш Господь",
-    "messageText": 267,
-    "messageDocs": 0
+    "messageText": 267
   },
   {
     "id": 740693766,
     "number": "1230",
     "title": "Встает заря, и солнца луч на небосводе",
-    "messageText": 268,
-    "messageDocs": 0
+    "messageText": 268
   },
   {
     "id": 328424545,
     "number": "1573",
     "title": "Как прекрасно всё то, что Твоё",
-    "messageText": 269,
-    "messageDocs": 0
+    "messageText": 269
   },
   {
     "id": 824226694,
     "number": "1611",
     "title": "Церковь Божия, все вместе",
-    "messageText": 270,
-    "messageDocs": 0
+    "messageText": 270
   },
   {
     "id": 518405617,
     "number": "1654",
     "title": "Есть на небе город",
-    "messageText": 271,
-    "messageDocs": 0
+    "messageText": 271
   },
   {
     "id": 522620004,
     "number": "1822",
     "title": "Научи меня, мой Господь, во всём",
-    "messageText": 272,
-    "messageDocs": 0
+    "messageText": 272
   },
   {
     "id": 746084035,
     "number": "1951",
     "title": "Земная жизнь и суета не дали счастья для меня",
-    "messageText": 273,
-    "messageDocs": 0
+    "messageText": 273
   },
   {
     "id": 826550525,
     "number": "2012",
     "title": "Господь - моя сила и щит",
-    "messageText": 274,
-    "messageDocs": 0
+    "messageText": 274
   },
   {
     "id": 826550005,
     "number": "2021",
     "title": "Мы нужны друг другу",
-    "messageText": 275,
-    "messageDocs": 0
+    "messageText": 275
   },
   {
     "id": 833319017,
     "number": "2237",
     "title": "Буду петь Господу во всю жизнь мою",
     "messageText": 276,
-    "messageDocs": 0,
     "chord": "D"
   },
   {
     "id": 892951462,
     "number": "2615",
     "title": "Господи, как странно",
-    "messageText": 277,
-    "messageDocs": 0
+    "messageText": 277
   },
   {
     "id": 963871716,
     "number": "2922",
     "title": "Воскресение Христово (У пещеры стоит в печали, тихо плачет)",
-    "messageText": 278,
-    "messageDocs": 0
+    "messageText": 278
   },
   {
     "id": 983247796,
     "number": "3191",
     "title": "На далеком холме старый крест виден мне",
-    "messageText": 279,
-    "messageDocs": 0
+    "messageText": 279
   },
   {
     "id": 983200796,
     "number": "3375",
-    "title": "Там, где Один пострадал за всех",
-    "messageText": 0,
-    "messageDocs": 0
+    "title": "Там, где Один пострадал за всех"
   },
   {
     "id": 403071892,
     "number": "3375",
-    "title": "Там, где Один",
-    "messageText": 0,
-    "messageDocs": 0
+    "title": "Там, где Один"
   },
   {
     "id": 794553655,
     "number": "3386",
     "title": "Хвалите Господа с небес! Хвалите Бога!",
-    "messageText": 0,
-    "messageDocs": 0,
     "youtube": "https://youtu.be/LxANCzzS3y4?si=AK_om9hKTcCc2HOB"
   },
   {
     "id": 248415623,
     "number": "665",
     "title": "В час, когда труба Господня над землёю прозвучит",
-    "messageText": 0,
-    "messageDocs": 0,
     "youtube": "https://youtu.be/n0AeaNgdoOw?si=hBHVreC3ssqQh0VG",
     "chord": "G"
   },
@@ -228,8 +182,6 @@
     "id": 175790252,
     "number": "652",
     "title": "Красота Иисуса, светись во мне",
-    "messageText": 0,
-    "messageDocs": 0,
     "youtube": "https://youtu.be/1e2YwmDDtko?si=OYW77Sro9yIruCxm",
     "chord": "C"
   },
@@ -237,18 +189,12 @@
     "id": 175790252789,
     "number": "789",
     "title": "Ты - мой Бог Святой",
-    "messageText": 0,
-    "messageDocs": 0,
-    "youtube": "",
     "chord": "G"
   },
   {
     "id": 1757902521324,
     "number": "1324",
     "title": "Хвала Тебе",
-    "messageText": 0,
-    "messageDocs": 0,
-    "youtube": "",
     "chord": "E"
   }
 ]
