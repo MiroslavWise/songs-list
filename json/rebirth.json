@@ -61,6 +61,26 @@
     "youtube": "https://youtu.be/Mh3dq_jfGSM?si=r-tkXWrPj-tm5Uh5"
   },
   {
+    "id": 175790252,
+    "number": 652,
+    "title": "Красота Иисуса, светись во мне",
+    "youtube": "https://youtu.be/1e2YwmDDtko?si=OYW77Sro9yIruCxm",
+    "chord": "C"
+  },
+  {
+    "id": 248415623,
+    "number": 665,
+    "title": "В час, когда труба Господня над землёю прозвучит",
+    "youtube": "https://youtu.be/n0AeaNgdoOw?si=hBHVreC3ssqQh0VG",
+    "chord": "G"
+  },
+  {
+    "id": 175790252789,
+    "number": 789,
+    "title": "Ты - мой Бог Святой",
+    "chord": "G"
+  },
+  {
     "id": 370939238,
     "number": 794,
     "title": "Долго в сумраке скитался (в)"
@@ -89,6 +109,12 @@
     "messageText": 268
   },
   {
+    "id": 1757902521324,
+    "number": 1324,
+    "title": "Хвала Тебе",
+    "chord": "E"
+  },
+  {
     "id": 328424545,
     "number": 1573,
     "title": "Как прекрасно всё то, что Твоё",
@@ -114,7 +140,7 @@
   },
   {
     "id": 746084035,
-    "number": "1951",
+    "number": 1951,
     "title": "Земная жизнь и суета не дали счастья для меня",
     "messageText": 273
   },
@@ -161,40 +187,9 @@
     "title": "Там, где Один пострадал за всех"
   },
   {
-    "id": 403071892,
-    "number": "3375",
-    "title": "Там, где Один"
-  },
-  {
     "id": 794553655,
     "number": 3386,
     "title": "Хвалите Господа с небес! Хвалите Бога!",
     "youtube": "https://youtu.be/LxANCzzS3y4?si=AK_om9hKTcCc2HOB"
-  },
-  {
-    "id": 248415623,
-    "number": 665,
-    "title": "В час, когда труба Господня над землёю прозвучит",
-    "youtube": "https://youtu.be/n0AeaNgdoOw?si=hBHVreC3ssqQh0VG",
-    "chord": "G"
-  },
-  {
-    "id": 175790252,
-    "number": 652,
-    "title": "Красота Иисуса, светись во мне",
-    "youtube": "https://youtu.be/1e2YwmDDtko?si=OYW77Sro9yIruCxm",
-    "chord": "C"
-  },
-  {
-    "id": 175790252789,
-    "number": 789,
-    "title": "Ты - мой Бог Святой",
-    "chord": "G"
-  },
-  {
-    "id": 1757902521324,
-    "number": 1324,
-    "title": "Хвала Тебе",
-    "chord": "E"
   }
 ]
