@@ -374,7 +374,7 @@
     "number": 48,
     "title": "Христос - основа Церкви",
     "messageText": 220,
-    
+
     "youtube": "https://youtu.be/D9glZuYJTx4?si=0tTouqmd7cb2xGWw"
   },
   {
@@ -466,7 +466,7 @@
     "number": 63,
     "title": "Здесь я, чтобы славить (Светом Своим)",
     "messageText": 232,
-    
+
     "youtube": "https://youtu.be/q2ZCv1Oac2M?si=Kf2G1bdZ5pOaLg6N"
   },
   {
@@ -510,7 +510,7 @@
     "number": 69,
     "title": "В искании счастья",
     "messageText": 238,
-    
+
     "youtube": "https://youtu.be/rMVGAwytNos?si=bGzIyHB5VeBExt8s"
   },
   {
@@ -610,8 +610,9 @@
   {
     "id": 260632855,
     "number": 84,
-    "title": "Когда умолкнет звук",
-    "messageText": 253
+    "title": "Когда умолкнет звук (Когда смолкает всё)",
+    "messageText": 253,
+    "chord": "D"
   },
   {
     "id": 114967152,
@@ -650,8 +651,8 @@
     "number": 90,
     "title": "Океан Божьей Любви",
     "messageText": 258,
-    
-    "youtube": "https://youtu.be/d1StI5sO7mM?si=_BV3F9qqJudC3D9s"
+    "youtube": "https://youtu.be/d1StI5sO7mM?si=_BV3F9qqJudC3D9s",
+    "chord": "E"
   },
   {
     "id": 698956865,
@@ -678,7 +679,8 @@
     "number": 93,
     "title": "Я один из тех, кого Ты заметил",
     "messageText": 261,
-    "youtube": "https://youtu.be/kdwbJUh8-eU?si=seIFJFrKEBczKQTp"
+    "youtube": "https://youtu.be/kdwbJUh8-eU?si=seIFJFrKEBczKQTp",
+    "chord": "D"
   },
   {
     "id": 288125404,
@@ -765,6 +767,23 @@
     "messageDocs": 99,
     "youtube": "https://youtu.be/1ARqSbuJyoo?si=HLBAKbqpBZsWUNCJ",
     "chord": "A"
+  },
+  {
+    "id": 116461709,
+    "number": 113,
+    "title": "Всё, Что Мне Надо",
+    "messageText": 123,
+    "messageDocs": 124,
+    "chord": "G"
+  },
+  {
+    "id": 488822194,
+    "number": 116,
+    "title": "Милость спасла",
+    "messageText": 115,
+    "messageDocs": 116,
+    "youtube": "https://youtu.be/doVYrvE9aQU?si=4VIMenHoy0yG_lTE",
+    "chord": "E"
   },
   {
     "id": 114291772,
