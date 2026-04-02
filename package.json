@@ -1,0 +1,8 @@
+{
+  "name": "songs-list",
+  "private": true,
+  "scripts": {
+    "bat": "npm run bat --prefix ./react",
+    "start": "npm run bat --prefix ./react"
+  }
+}

@@ -103,7 +103,28 @@
     "id": 512208177,
     "number": 421,
     "title": "Знаешь ли ручей, что бежит",
-    "youtube": "https://youtu.be/M-4SAFhq94Q?si=rR10M0azpB6Lv-eC"
+    "youtube": "https://youtu.be/M-4SAFhq94Q?si=rR10M0azpB6Lv-eC",
+    "chord": "E"
+  },
+  {
+    "id": 983247796,
+    "number": 426,
+    "title": "На далеком холме старый крест виден мне",
+    "messageText": 279,
+    "chord": "A"
+  },
+  {
+    "id": 864863904,
+    "number": 427,
+    "title": "У Креста хочу стоять",
+    "chord": "D"
+  },
+  {
+    "id": 736511391,
+    "number": 570,
+    "title": "Не тоскуй ты, душа дорогая",
+    "youtube": "https://youtu.be/IamkMSAI87U?si=1HQDKhP0n193w6Z8",
+    "chord": "D"
   },
   {
     "id": 391119572,
@@ -232,12 +253,6 @@
     "number": 2922,
     "title": "Воскресение Христово (У пещеры стоит в печали, тихо плачет)",
     "messageText": 278
-  },
-  {
-    "id": 983247796,
-    "number": 3191,
-    "title": "На далеком холме старый крест виден мне",
-    "messageText": 279
   },
   {
     "id": 983200796,
