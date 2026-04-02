@@ -788,9 +788,29 @@
     "chord": "E"
   },
   {
+    "number": 121,
+    "id": 567345520,
+    "title": "На кресте совершилось всё",
+    "messageText": 34,
+    "messageDocs": 35,
+    "youtube": "https://youtu.be/ooKPgWDt3lc?si=0hXxduko8U8lokHs",
+    "chord": "E"
+  },
+  {
+    "number": 122,
+    "id": 757689315,
+    "title": "На Нём",
+    "messageText": 32,
+    "messageDocs": 33,
+    "youtube": "https://youtu.be/nKDXAD2-FDk?si=_hND5SFy5q0E3ySV",
+    "chord": "A"
+  },
+  {
     "id": 465003488123,
     "number": 123,
-    "title": "Благодарю (Благодарю Тебя, Отец Небесный)"
+    "title": "Благодарю (Благодарю Тебя, Отец Небесный)",
+    "youtube": "https://youtu.be/bJfs00UVwt4?si=rnN3VAVA97FIhwnf",
+    "chord": "E"
   },
   {
     "id": 465003488,
