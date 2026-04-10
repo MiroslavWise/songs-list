@@ -49,7 +49,8 @@
     "title": "Придите все к Воскресшему",
     "messageText": 61,
     "messageDocs": 62,
-    "youtube": "https://youtu.be/HgNHC0NyCIU?si=etLx2ty9XTMFncq4"
+    "youtube": "https://youtu.be/HgNHC0NyCIU?si=etLx2ty9XTMFncq4",
+    "chord": "C"
   },
   {
     "id": 182499383,
@@ -91,7 +92,8 @@
     "id": 521708820,
     "title": "О Прославляй Имя",
     "messageText": 80,
-    "messageDocs": 81
+    "messageDocs": 81,
+    "chord": "G"
   },
   {
     "id": 991949057,

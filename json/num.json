@@ -66,6 +66,11 @@
     "chord": "F"
   },
   {
+    "id": 553994684,
+    "number": 7,
+    "title": "Христос Воскрес, Воистину Воскрес"
+  },
+  {
     "id": 768653653,
     "number": 8,
     "title": "Милости Твоей полна вся земля",
@@ -374,7 +379,6 @@
     "number": 48,
     "title": "Христос - основа Церкви",
     "messageText": 220,
-
     "youtube": "https://youtu.be/D9glZuYJTx4?si=0tTouqmd7cb2xGWw"
   },
   {
@@ -466,7 +470,6 @@
     "number": 63,
     "title": "Здесь я, чтобы славить (Светом Своим)",
     "messageText": 232,
-
     "youtube": "https://youtu.be/q2ZCv1Oac2M?si=Kf2G1bdZ5pOaLg6N"
   },
   {
@@ -510,7 +513,6 @@
     "number": 69,
     "title": "В искании счастья",
     "messageText": 238,
-
     "youtube": "https://youtu.be/rMVGAwytNos?si=bGzIyHB5VeBExt8s"
   },
   {
@@ -780,24 +782,24 @@
     "chord": "E"
   },
   {
-    "number": 118,
     "id": 507367850,
+    "number": 118,
     "title": "Милость Его Велика (Трости не преломит)",
     "messageText": 117,
     "messageDocs": 118,
     "chord": "E"
   },
   {
-    "number": 120,
     "id": 829325691,
+    "number": 120,
     "title": "Он избит, обезображен",
     "messageText": 72,
     "messageDocs": 73,
     "chord": "F"
   },
   {
-    "number": 121,
     "id": 567345520,
+    "number": 121,
     "title": "На кресте совершилось всё",
     "messageText": 34,
     "messageDocs": 35,
@@ -805,8 +807,8 @@
     "chord": "E"
   },
   {
-    "number": 122,
     "id": 757689315,
+    "number": 122,
     "title": "На Нём",
     "messageText": 32,
     "messageDocs": 33,
