@@ -39,7 +39,12 @@
     "messageText": 44,
     "messageDocs": 45,
     "youtube": "https://youtu.be/M5R36nyrIuI?si=BuoQDzIJ_3GP-nmQ",
-    "chord": "E"
+    "chord": "E",
+    "themes": [
+      "373a10ce-1c53-4c04-a28e-ff5b28a27242",
+      "819c9fa2-430f-4c17-bf71-1b31234f9710",
+      "251d703f-6725-495b-bc62-a0f469ecae49"
+    ]
   },
   {
     "id": 679142724,
@@ -48,7 +53,11 @@
     "messageText": 46,
     "messageDocs": 47,
     "youtube": "https://youtu.be/03BPxWSPZso?si=NhgA0bKx9Rh6NsHt",
-    "chord": "D"
+    "chord": "D",
+    "themes": [
+      "373a10ce-1c53-4c04-a28e-ff5b28a27242",
+      "251d703f-6725-495b-bc62-a0f469ecae49"
+    ]
   },
   {
     "id": 454752317,
@@ -56,7 +65,12 @@
     "title": "Я знаю теперь что такое любовь (Бог всего творенья)",
     "messageText": 48,
     "messageDocs": 49,
-    "chord": "G"
+    "chord": "G",
+    "themes": [
+      "31a8dea9-2699-4272-9716-027e4963f476",
+      "5a952559-baf6-45a3-a97e-692e1907c430",
+      "8f348a9d-3d5b-474d-991b-92028740603f"
+    ]
   },
   {
     "id": 268209969,
