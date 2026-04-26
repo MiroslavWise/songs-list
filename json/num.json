@@ -78,7 +78,11 @@
     "title": "Придите и прославьте все",
     "messageText": 56,
     "messageDocs": 57,
-    "chord": "A"
+    "chord": "A",
+    "themes": [
+      "251d703f-6725-495b-bc62-a0f469ecae49",
+      "5a952559-baf6-45a3-a97e-692e1907c430"
+    ]
   },
   {
     "id": 676991803,
@@ -87,7 +91,12 @@
     "messageText": 58,
     "messageDocs": 59,
     "youtube": "https://youtu.be/VxyIn0RR9R0?si=Yngk27axgfubus3c",
-    "chord": "F"
+    "chord": "F",
+    "themes": [
+      "5a952559-baf6-45a3-a97e-692e1907c430",
+      "373a10ce-1c53-4c04-a28e-ff5b28a27242",
+      "31a8dea9-2699-4272-9716-027e4963f476"
+    ]
   },
   {
     "id": 553994684,
