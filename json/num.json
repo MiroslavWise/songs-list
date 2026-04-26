@@ -12,7 +12,12 @@
     "title": "Дивный Спаситель, Прекрасный",
     "messageText": 40,
     "messageDocs": 41,
-    "chord": "A"
+    "chord": "A",
+    "themes": [
+      "5a952559-baf6-45a3-a97e-692e1907c430",
+      "9e8432ec-c36b-4252-9726-49d7a6e6c0ad",
+      "52e5ea3f-875b-4b5d-9c4d-4b22b7257f5b"
+    ]
   },
   {
     "id": 525497357,
@@ -20,7 +25,12 @@
     "title": "Всё, что я любил и хотел иметь",
     "messageText": 42,
     "messageDocs": 43,
-    "chord": "C"
+    "chord": "C",
+    "themes": [
+      "251d703f-6725-495b-bc62-a0f469ecae49",
+      "4cf2023e-8398-44db-abb7-9ed25e013b9b",
+      "31a8dea9-2699-4272-9716-027e4963f476"
+    ]
   },
   {
     "id": 736590030,
