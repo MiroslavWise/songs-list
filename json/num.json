@@ -102,7 +102,11 @@
     "id": 553994684,
     "number": 7,
     "title": "Христос Воскрес, Воистину Воскрес",
-    "chord": "G"
+    "chord": "G",
+    "themes": [
+      "18fcbeda-c957-49ae-9ffe-03eb3ea0284c",
+      "5a952559-baf6-45a3-a97e-692e1907c430"
+    ]
   },
   {
     "id": 768653653,
@@ -110,7 +114,11 @@
     "title": "Милости Твоей полна вся земля",
     "messageText": 50,
     "messageDocs": 51,
-    "chord": "E"
+    "chord": "E",
+    "themes": [
+      "9e8432ec-c36b-4252-9726-49d7a6e6c0ad",
+      "5a952559-baf6-45a3-a97e-692e1907c430"
+    ]
   },
   {
     "id": 284959836,
@@ -119,7 +127,8 @@
     "messageText": 52,
     "messageDocs": 53,
     "youtube": "https://youtu.be/pV7QMsS9aOI?si=Kyyasv0P-WdRpqqq",
-    "chord": "D"
+    "chord": "D",
+    "themes": ["251d703f-6725-495b-bc62-a0f469ecae49"]
   },
   {
     "id": 210458446,
