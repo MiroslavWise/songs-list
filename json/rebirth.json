@@ -3,26 +3,51 @@
     "id": 375991065,
     "number": 22,
     "title": "Ближе, Господь, к Тебе, ближе к Тебе",
-    "chord": "E"
+    "chord": "E",
+    "themes": [
+      "d0e01ba9-6816-4b0e-a7f8-835c9932f6f4",
+      "819c9fa2-430f-4c17-bf71-1b31234f9710"
+    ]
   },
   {
     "id": 487677613,
     "number": 27,
     "title": "О, наш Отец на небесах",
-    "chord": "E"
+    "chord": "E",
+    "themes": [
+      "d0e01ba9-6816-4b0e-a7f8-835c9932f6f4",
+      "373a10ce-1c53-4c04-a28e-ff5b28a27242"
+    ]
   },
   {
     "id": 835487865,
     "number": 48,
     "title": "Не в словах молитвенных речей",
     "youtube": "https://youtu.be/cdaFW79xLlM?si=E8teMJEHiY57gcov",
-    "chord": "D"
+    "chord": "D",
+    "themes": ["d0e01ba9-6816-4b0e-a7f8-835c9932f6f4"]
   },
   {
     "id": 160465493,
     "number": 49,
     "title": "Бог мой храни меня",
-    "chord": "F"
+    "chord": "F",
+    "themes": ["d0e01ba9-6816-4b0e-a7f8-835c9932f6f4"]
+  },
+  {
+    "id": 396792204,
+    "number": 74,
+    "title": "Посещай, Господь, меня",
+    "messageText": 243,
+    "chord": "E",
+    "themes": ["819c9fa2-430f-4c17-bf71-1b31234f9710"]
+  },
+  {
+    "id": 418543778,
+    "number": 92,
+    "title": "Глубже всех морей и океанов",
+    "chord": "G",
+    "themes": ["5a952559-baf6-45a3-a97e-692e1907c430"]
   },
   {
     "id": 16046549396,
@@ -33,14 +58,23 @@
     "id": 557054327,
     "number": 99,
     "title": "Ему имя: Чудный, Вечный и Святой",
-    "chord": "A"
+    "chord": "A",
+    "themes": [
+      "b0be651a-94ff-4372-a270-d1f722c03e96",
+      "19e5e5de-53e1-41d9-bbc5-05ffffb5d69c",
+      "25b3fa24-abbf-40f4-9b49-f0713c5d16de"
+    ]
   },
   {
     "id": 114291772,
     "number": 119,
     "title": "Верность Твоя велика, о, мой Боже",
     "messageText": 263,
-    "chord": "C"
+    "chord": "C",
+    "themes": [
+      "373a10ce-1c53-4c04-a28e-ff5b28a27242",
+      "819c9fa2-430f-4c17-bf71-1b31234f9710"
+    ]
   },
   {
     "id": 480254886,
@@ -56,7 +90,12 @@
     "number": 145,
     "title": "Когда безбрежный рокот океана",
     "messageText": 265,
-    "youtube": "https://youtu.be/E7OxBGBZnzw?si=HBbr1576EnAqzDVx"
+    "youtube": "https://youtu.be/E7OxBGBZnzw?si=HBbr1576EnAqzDVx",
+    "chord": "C",
+    "themes": [
+      "373a10ce-1c53-4c04-a28e-ff5b28a27242",
+      "31a8dea9-2699-4272-9716-027e4963f476"
+    ]
   },
   {
     "id": 201162515,
@@ -208,6 +247,18 @@
     "chord": "E"
   },
   {
+    "id": 121947573,
+    "number": 1566,
+    "title": "Иисус как Ты дорог для меня",
+    "messageText": 133,
+    "messageDocs": 134,
+    "chord": "C",
+    "themes": [
+      "5a952559-baf6-45a3-a97e-692e1907c430",
+      "d0e01ba9-6816-4b0e-a7f8-835c9932f6f4"
+    ]
+  },
+  {
     "id": 328424545,
     "number": 1573,
     "title": "Как прекрасно всё то, что Твоё",
@@ -254,7 +305,8 @@
     "number": 2237,
     "title": "Буду петь Господу во всю жизнь мою",
     "messageText": 276,
-    "chord": "D"
+    "chord": "D",
+    "themes": ["251d703f-6725-495b-bc62-a0f469ecae49"]
   },
   {
     "id": 892951462,
