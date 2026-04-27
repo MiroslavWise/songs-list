@@ -100,8 +100,14 @@
   {
     "id": 201162515,
     "number": 166,
-    "title": "Пусть земля вся утверждает",
-    "messageText": 266
+    "title": "Пусть земля вся утверждает (Радуйтесь со мною, люди)",
+    "messageText": 266,
+    "chord": "A",
+    "link": "https://holychords.pro/17983",
+    "themes": [
+      "819c9fa2-430f-4c17-bf71-1b31234f9710",
+      "2a7295d1-4477-4eb8-a533-c4cc489a68fa"
+    ]
   },
   {
     "id": 309708887179,
@@ -342,5 +348,15 @@
     "title": "Иисус о Тебе я пою",
     "youtube": "https://youtu.be/nIwlw0bAafM?si=eHH012G4QTiKiB0C",
     "chord": "A"
+  },
+  {
+    "id": 468673714,
+    "number": 157,
+    "title": "Братья, все ликуйте: славный день настал",
+    "chord": "D",
+    "themes": [
+      "9e8432ec-c36b-4252-9726-49d7a6e6c0ad",
+      "5a952559-baf6-45a3-a97e-692e1907c430"
+    ]
   }
 ]
