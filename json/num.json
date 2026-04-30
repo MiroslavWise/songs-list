@@ -235,7 +235,12 @@
     "number": 21,
     "title": "Глубока, подобно морю",
     "messageText": 173,
-    "messageDocs": 174
+    "messageDocs": 174,
+    "themes": [
+      "ef5b5510-2324-49aa-ab73-2c08a8f52ff6",
+      "5a952559-baf6-45a3-a97e-692e1907c430",
+      "31a8dea9-2699-4272-9716-027e4963f476"
+    ]
   },
   {
     "id": 637226974,
@@ -301,7 +306,11 @@
     "title": "Небеса это Твой престол а земля подножие ног",
     "messageText": 193,
     "messageDocs": 194,
-    "youtube": "https://youtu.be/_7Rt23waI2A?si=9AfftJFnogQlbjNg"
+    "youtube": "https://youtu.be/_7Rt23waI2A?si=9AfftJFnogQlbjNg",
+    "themes": [
+      "373a10ce-1c53-4c04-a28e-ff5b28a27242",
+      "251d703f-6725-495b-bc62-a0f469ecae49"
+    ]
   },
   {
     "id": 456897358,
@@ -850,7 +859,11 @@
     "messageText": 32,
     "messageDocs": 33,
     "youtube": "https://youtu.be/nKDXAD2-FDk?si=_hND5SFy5q0E3ySV",
-    "chord": "A"
+    "chord": "A",
+    "themes": [
+      "ef5b5510-2324-49aa-ab73-2c08a8f52ff6",
+      "373a10ce-1c53-4c04-a28e-ff5b28a27242"
+    ]
   },
   {
     "id": 465003488123,

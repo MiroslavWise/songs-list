@@ -186,6 +186,13 @@
     "themes": ["31a8dea9-2699-4272-9716-027e4963f476"]
   },
   {
+    "id": 513696803,
+    "number": 409,
+    "title": "О дивный день! О дивный час",
+    "chord": "F",
+    "themes": ["5a952559-baf6-45a3-a97e-692e1907c430"]
+  },
+  {
     "id": 512208177,
     "number": 421,
     "title": "Знаешь ли ручей, что бежит",
@@ -265,6 +272,32 @@
     "youtube": "https://youtu.be/VqK4K07Ae9U?si=MhMHP02texbQgr9w",
     "chord": "C",
     "themes": ["2a7295d1-4477-4eb8-a533-c4cc489a68fa"]
+  },
+  {
+    "id": 502134269,
+    "number": 707,
+    "title": "Течет ли жизнь мирно подобно реке",
+    "chord": "A",
+    "themes": ["2a7295d1-4477-4eb8-a533-c4cc489a68fa"]
+  },
+  {
+    "id": 418498676,
+    "number": 726,
+    "title": "Утром, когда встает рассвет",
+    "youtube": "https://youtu.be/GRQ8CWXzMCY?si=9tQ06J7JRV3hp61z",
+    "chord": "C",
+    "themes": ["2a7295d1-4477-4eb8-a533-c4cc489a68fa"]
+  },
+  {
+    "id": 369608996,
+    "number": 732,
+    "title": "Христианин, неси огонь чудесный свой",
+    "youtube": "https://youtu.be/5saicIAyAtw?si=2TL0FhsxG6ywnXWs",
+    "chord": "C",
+    "themes": [
+      "2a7295d1-4477-4eb8-a533-c4cc489a68fa",
+      "819c9fa2-430f-4c17-bf71-1b31234f9710"
+    ]
   },
   {
     "id": 175790252789,
@@ -412,12 +445,6 @@
     "title": "Пусть Иисус моим сердцем владеет",
     "chord": "G",
     "themes": ["819c9fa2-430f-4c17-bf71-1b31234f9710"]
-  },
-  {
-    "id": 513696803,
-    "number": 409,
-    "title": "О дивный день! О дивный час",
-    "chord": "F"
   },
   {
     "id": 592606883,
