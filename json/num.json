@@ -483,7 +483,12 @@
     "number": 56,
     "title": "Любоў Хрыстова, яна – як сонца",
     "messageText": 227,
-    "youtube": "https://youtu.be/L-WTSPGLQYs?si=2GURqvQGGdB0DJSQ"
+    "youtube": "https://youtu.be/L-WTSPGLQYs?si=2GURqvQGGdB0DJSQ",
+    "chord": "E",
+    "themes": [
+      "31a8dea9-2699-4272-9716-027e4963f476",
+      "819c9fa2-430f-4c17-bf71-1b31234f9710"
+    ]
   },
   {
     "id": 565876144,
@@ -586,7 +591,12 @@
     "number": 72,
     "title": "Держит Он меня",
     "messageText": 241,
-    "youtube": "https://youtu.be/YDi-OVxB1QE?si=AqaqH4fMpNQoW5W6"
+    "youtube": "https://youtu.be/YDi-OVxB1QE?si=AqaqH4fMpNQoW5W6",
+    "chord": "A",
+    "themes": [
+      "52e5ea3f-875b-4b5d-9c4d-4b22b7257f5b",
+      "2a7295d1-4477-4eb8-a533-c4cc489a68fa"
+    ]
   },
   {
     "id": 732521785,
