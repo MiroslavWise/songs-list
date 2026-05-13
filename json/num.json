@@ -336,14 +336,24 @@
     "messageText": 199,
     "messageDocs": 200,
     "youtube": "https://youtu.be/GeodYp8stGY?si=4HF8G89CSmtW-UU5",
-    "chord": "D"
+    "chord": "D",
+    "themes": ["2a9c7669-7ac9-499f-b9b4-3ed29c019efb"]
+  },
+  {
+    "id": 987439740,
+    "number": 35,
+    "title": "Господи, милость Твоя до небес",
+    "chord": "C",
+    "themes": ["52e5ea3f-875b-4b5d-9c4d-4b22b7257f5b"]
   },
   {
     "id": 188937967,
     "number": 36,
     "title": "Пришел на Землю с небес (Возношу Тебя, Господь)",
     "messageText": 201,
-    "messageDocs": 202
+    "messageDocs": 202,
+    "chord": "G",
+    "themes": ["251d703f-6725-495b-bc62-a0f469ecae49"]
   },
   {
     "id": 843615048,
@@ -366,7 +376,12 @@
     "title": "Благодать не постичь, не понять",
     "messageText": 208,
     "messageDocs": 209,
-    "youtube": "https://youtu.be/uB59-qIXl2U?si=xI7HjebNlDPG102A"
+    "youtube": "https://youtu.be/uB59-qIXl2U?si=xI7HjebNlDPG102A",
+    "chord": "C",
+    "themes": [
+      "251d703f-6725-495b-bc62-a0f469ecae49",
+      "31a8dea9-2699-4272-9716-027e4963f476"
+    ]
   },
   {
     "id": 287385620,
@@ -434,7 +449,9 @@
     "number": 48,
     "title": "Христос - основа Церкви",
     "messageText": 220,
-    "youtube": "https://youtu.be/D9glZuYJTx4?si=0tTouqmd7cb2xGWw"
+    "youtube": "https://youtu.be/D9glZuYJTx4?si=0tTouqmd7cb2xGWw",
+    "chord": "D",
+    "themes": ["2a9c7669-7ac9-499f-b9b4-3ed29c019efb"]
   },
   {
     "id": 562087538,
@@ -453,7 +470,9 @@
     "number": 51,
     "title": "Ты зажигаешь в небе звезды",
     "messageText": 223,
-    "youtube": "https://youtu.be/AhRTyBpJzMw?si=XkCLKLFtKR6N5zrY"
+    "youtube": "https://youtu.be/AhRTyBpJzMw?si=XkCLKLFtKR6N5zrY",
+    "chord": "H",
+    "themes": ["373a10ce-1c53-4c04-a28e-ff5b28a27242"]
   },
   {
     "id": 574871496,
