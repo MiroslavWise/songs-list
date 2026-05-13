@@ -327,7 +327,9 @@
     "number": 33,
     "title": "Прихожу к Тебе я с хвалою",
     "messageText": 197,
-    "messageDocs": 198
+    "messageDocs": 198,
+    "chord": "C",
+    "themes": ["251d703f-6725-495b-bc62-a0f469ecae49"]
   },
   {
     "id": 144645064,
