@@ -238,6 +238,7 @@
     "title": "Глубока, подобно морю",
     "messageText": 173,
     "messageDocs": 174,
+    "chord": "D",
     "themes": [
       "ef5b5510-2324-49aa-ab73-2c08a8f52ff6",
       "5a952559-baf6-45a3-a97e-692e1907c430",
@@ -249,7 +250,12 @@
     "number": 22,
     "title": "Имя выше всех имен",
     "messageText": 175,
-    "messageDocs": 176
+    "messageDocs": 176,
+    "chord": "E",
+    "themes": [
+      "373a10ce-1c53-4c04-a28e-ff5b28a27242",
+      "251d703f-6725-495b-bc62-a0f469ecae49"
+    ]
   },
   {
     "id": 850229078,
