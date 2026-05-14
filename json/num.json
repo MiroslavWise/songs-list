@@ -283,14 +283,18 @@
     "number": 25,
     "title": "Наш Бог Великий (Свет Твой во тьме воссиял)",
     "messageText": 181,
-    "messageDocs": 182
+    "messageDocs": 182,
+    "chord": "H",
+    "themes": ["373a10ce-1c53-4c04-a28e-ff5b28a27242"]
   },
   {
     "id": 200098395,
     "number": 26,
     "title": "Тебе Единому",
     "messageText": 183,
-    "messageDocs": 184
+    "messageDocs": 184,
+    "chord": "G",
+    "themes": ["373a10ce-1c53-4c04-a28e-ff5b28a27242"]
   },
   {
     "id": 465299287,
@@ -322,6 +326,7 @@
     "messageText": 193,
     "messageDocs": 194,
     "youtube": "https://youtu.be/_7Rt23waI2A?si=9AfftJFnogQlbjNg",
+    "chord":"A",
     "themes": [
       "373a10ce-1c53-4c04-a28e-ff5b28a27242",
       "251d703f-6725-495b-bc62-a0f469ecae49"
