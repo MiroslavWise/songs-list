@@ -326,7 +326,7 @@
     "messageText": 193,
     "messageDocs": 194,
     "youtube": "https://youtu.be/_7Rt23waI2A?si=9AfftJFnogQlbjNg",
-    "chord":"A",
+    "chord": "A",
     "themes": [
       "373a10ce-1c53-4c04-a28e-ff5b28a27242",
       "251d703f-6725-495b-bc62-a0f469ecae49"
@@ -436,7 +436,12 @@
     "id": 519075256,
     "number": 43,
     "title": "Ты дал мне жизнь Свою",
-    "messageText": 36
+    "messageText": 36,
+    "chord": "D",
+    "themes": [
+      "9e8432ec-c36b-4252-9726-49d7a6e6c0ad",
+      "2a7295d1-4477-4eb8-a533-c4cc489a68fa"
+    ]
   },
   {
     "id": 813386575,
@@ -449,7 +454,12 @@
     "id": 756933933,
     "number": 45,
     "title": "Ты велик (Вот он я)",
-    "messageText": 217
+    "messageText": 217,
+    "chord": "G",
+    "themes": [
+      "373a10ce-1c53-4c04-a28e-ff5b28a27242",
+      "31a8dea9-2699-4272-9716-027e4963f476"
+    ]
   },
   {
     "id": 551085269,
@@ -462,7 +472,9 @@
     "number": 47,
     "title": "Наш Бог Всемогущий",
     "messageText": 219,
-    "youtube": "https://youtu.be/iElwqkI73Z8?si=2M4m4n0ZKYoIxm9R"
+    "youtube": "https://youtu.be/iElwqkI73Z8?si=2M4m4n0ZKYoIxm9R",
+    "chord": "D",
+    "themes": ["373a10ce-1c53-4c04-a28e-ff5b28a27242"]
   },
   {
     "id": 315931656,
@@ -812,12 +824,29 @@
     "messageDocs": 89
   },
   {
+    "id": 322629242,
+    "number": 100,
+    "title": "Силён спасти (Нужно всем состраданье)",
+    "messageText": 70,
+    "messageDocs": 71,
+    "chord": "C",
+    "themes": [
+      "5a952559-baf6-45a3-a97e-692e1907c430",
+      "819c9fa2-430f-4c17-bf71-1b31234f9710"
+    ]
+  },
+  {
     "id": 239124624,
     "number": 101,
     "title": "Зачем, мой Господь",
     "messageText": 131,
     "messageDocs": 132,
-    "youtube": "https://youtu.be/X-gKX21lEJw?si=TVjQvcZ0NPPNd-3p"
+    "youtube": "https://youtu.be/X-gKX21lEJw?si=TVjQvcZ0NPPNd-3p",
+    "chord": "D",
+    "themes": [
+      "31a8dea9-2699-4272-9716-027e4963f476",
+      "9e8432ec-c36b-4252-9726-49d7a6e6c0ad"
+    ]
   },
   {
     "id": 514448055,
