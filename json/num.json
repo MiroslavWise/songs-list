@@ -10,8 +10,6 @@
     "id": 224694125,
     "number": 1,
     "title": "Дивный Спаситель, Прекрасный",
-    "messageText": 40,
-    "messageDocs": 41,
     "chord": "A",
     "themes": [
       "5a952559-baf6-45a3-a97e-692e1907c430",
@@ -23,8 +21,6 @@
     "id": 525497357,
     "number": 2,
     "title": "Всё, что я любил и хотел иметь",
-    "messageText": 42,
-    "messageDocs": 43,
     "chord": "C",
     "themes": [
       "251d703f-6725-495b-bc62-a0f469ecae49",
@@ -36,8 +32,6 @@
     "id": 736590030,
     "number": 3,
     "title": "Великий Бог, когда на мир смотрю я",
-    "messageText": 44,
-    "messageDocs": 45,
     "youtube": "https://youtu.be/M5R36nyrIuI?si=BuoQDzIJ_3GP-nmQ",
     "chord": "E",
     "themes": [
@@ -50,8 +44,6 @@
     "id": 679142724,
     "number": 4,
     "title": "Велики и чудны дела Твои",
-    "messageText": 46,
-    "messageDocs": 47,
     "youtube": "https://youtu.be/03BPxWSPZso?si=NhgA0bKx9Rh6NsHt",
     "chord": "D",
     "themes": [
@@ -63,8 +55,6 @@
     "id": 454752317,
     "number": 5,
     "title": "Я знаю теперь что такое любовь (Бог всего творенья)",
-    "messageText": 48,
-    "messageDocs": 49,
     "chord": "G",
     "themes": [
       "31a8dea9-2699-4272-9716-027e4963f476",
@@ -76,8 +66,6 @@
     "id": 268209969,
     "number": 6,
     "title": "Придите и прославьте все",
-    "messageText": 56,
-    "messageDocs": 57,
     "chord": "A",
     "themes": [
       "251d703f-6725-495b-bc62-a0f469ecae49",
@@ -88,8 +76,6 @@
     "id": 676991803,
     "number": 7,
     "title": "Ты искупил мир от греха",
-    "messageText": 58,
-    "messageDocs": 59,
     "youtube": "https://youtu.be/VxyIn0RR9R0?si=Yngk27axgfubus3c",
     "chord": "F",
     "themes": [
@@ -112,8 +98,6 @@
     "id": 768653653,
     "number": 8,
     "title": "Милости Твоей полна вся земля",
-    "messageText": 50,
-    "messageDocs": 51,
     "chord": "E",
     "themes": [
       "9e8432ec-c36b-4252-9726-49d7a6e6c0ad",
@@ -124,8 +108,6 @@
     "id": 284959836,
     "number": 9,
     "title": "Душу мою к Тебе возношу",
-    "messageText": 52,
-    "messageDocs": 53,
     "youtube": "https://youtu.be/pV7QMsS9aOI?si=Kyyasv0P-WdRpqqq",
     "chord": "D",
     "themes": ["251d703f-6725-495b-bc62-a0f469ecae49"]
@@ -148,8 +130,6 @@
     "id": 810799380,
     "number": 11,
     "title": "Я живу Христом (Я в мрачной тьме потерян был)",
-    "messageText": 150,
-    "messageDocs": 151,
     "youtube": "https://youtu.be/j3-pOIO_9tk?si=Rc7PZcUnw3rIA_EB",
     "chord": "G",
     "themes": ["2a7295d1-4477-4eb8-a533-c4cc489a68fa"]
@@ -241,8 +221,6 @@
     "id": 637226974,
     "number": 22,
     "title": "Имя выше всех имен",
-    "messageText": 175,
-    "messageDocs": 176,
     "chord": "E",
     "themes": [
       "373a10ce-1c53-4c04-a28e-ff5b28a27242",
@@ -274,8 +252,6 @@
     "id": 631306674,
     "number": 25,
     "title": "Наш Бог Великий (Свет Твой во тьме воссиял)",
-    "messageText": 181,
-    "messageDocs": 182,
     "chord": "H",
     "themes": ["373a10ce-1c53-4c04-a28e-ff5b28a27242"]
   },
@@ -315,8 +291,6 @@
     "id": 382715462,
     "number": 31,
     "title": "Небеса это Твой престол а земля подножие ног",
-    "messageText": 193,
-    "messageDocs": 194,
     "youtube": "https://youtu.be/_7Rt23waI2A?si=9AfftJFnogQlbjNg",
     "chord": "A",
     "themes": [
@@ -336,8 +310,6 @@
     "id": 530920170,
     "number": 33,
     "title": "Прихожу к Тебе я с хвалою",
-    "messageText": 197,
-    "messageDocs": 198,
     "chord": "C",
     "themes": ["251d703f-6725-495b-bc62-a0f469ecae49"]
   },
@@ -345,8 +317,6 @@
     "id": 144645064,
     "number": 34,
     "title": "Церковь Господа, ты невеста у Христа",
-    "messageText": 199,
-    "messageDocs": 200,
     "youtube": "https://youtu.be/GeodYp8stGY?si=4HF8G89CSmtW-UU5",
     "chord": "D",
     "themes": ["2a9c7669-7ac9-499f-b9b4-3ed29c019efb"]
@@ -362,8 +332,6 @@
     "id": 188937967,
     "number": 36,
     "title": "Пришел на Землю с небес (Возношу Тебя, Господь)",
-    "messageText": 201,
-    "messageDocs": 202,
     "chord": "G",
     "themes": ["251d703f-6725-495b-bc62-a0f469ecae49"]
   },
@@ -386,8 +354,6 @@
     "id": 472101914,
     "number": 39,
     "title": "Благодать не постичь, не понять",
-    "messageText": 208,
-    "messageDocs": 209,
     "youtube": "https://youtu.be/uB59-qIXl2U?si=xI7HjebNlDPG102A",
     "chord": "C",
     "themes": [
