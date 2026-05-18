@@ -582,7 +582,9 @@
     "number": 69,
     "title": "В искании счастья",
     "messageText": 238,
-    "youtube": "https://youtu.be/rMVGAwytNos?si=bGzIyHB5VeBExt8s"
+    "youtube": "https://youtu.be/rMVGAwytNos?si=bGzIyHB5VeBExt8s",
+    "chord": "D",
+    "themes": ["2a7295d1-4477-4eb8-a533-c4cc489a68fa"]
   },
   {
     "id": 890245479,
@@ -630,6 +632,16 @@
     "number": 76,
     "title": "В доме Твоем жить хочу, Господь",
     "messageText": 245
+  },
+  {
+    "id": 573563548,
+    "number": 77,
+    "title": "Хвала Тебе, наш Господь",
+    "chord": "G",
+    "themes": [
+      "373a10ce-1c53-4c04-a28e-ff5b28a27242",
+      "251d703f-6725-495b-bc62-a0f469ecae49"
+    ]
   },
   {
     "id": 198376634,
@@ -782,6 +794,19 @@
     "title": "Чудесна благодать",
     "messageText": 88,
     "messageDocs": 89
+  },
+  {
+    "id": 882567122,
+    "number": 99,
+    "title": "Со своими радостно мне",
+    "messageText": 141,
+    "messageDocs": 142,
+    "youtube": "https://youtu.be/2eOnIBzEgCA?si=MyTMuFzUee_z8w9_",
+    "chord": "H",
+    "themes": [
+      "251d703f-6725-495b-bc62-a0f469ecae49",
+      "2a7295d1-4477-4eb8-a533-c4cc489a68fa"
+    ]
   },
   {
     "id": 322629242,
