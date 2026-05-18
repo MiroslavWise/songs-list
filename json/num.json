@@ -588,7 +588,9 @@
     "id": 890245479,
     "number": 70,
     "title": "Хвалите Властителя мира сего",
-    "messageText": 239
+    "messageText": 239,
+    "chord": "F",
+    "themes": ["251d703f-6725-495b-bc62-a0f469ecae49"]
   },
   {
     "id": 628814562,
