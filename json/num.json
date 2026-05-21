@@ -406,7 +406,13 @@
     "number": 44,
     "title": "Бог меня отыскал",
     "messageText": 216,
-    "youtube": "https://youtu.be/nDvEWEYiI24?si=pDeVxmwKZUVo3QVj"
+    "youtube": "https://youtu.be/nDvEWEYiI24?si=pDeVxmwKZUVo3QVj",
+    "chord": "A",
+    "themes": [
+      "9e8432ec-c36b-4252-9726-49d7a6e6c0ad",
+      "5a952559-baf6-45a3-a97e-692e1907c430",
+      "52e5ea3f-875b-4b5d-9c4d-4b22b7257f5b"
+    ]
   },
   {
     "id": 756933933,
@@ -447,7 +453,9 @@
     "id": 562087538,
     "number": 49,
     "title": "Как велик Господь",
-    "messageText": 221
+    "messageText": 221,
+    "chord": "A",
+    "themes": ["373a10ce-1c53-4c04-a28e-ff5b28a27242"]
   },
   {
     "id": 863377896,
@@ -468,7 +476,9 @@
     "id": 574871496,
     "number": 52,
     "title": "За всё Тебя, Господь, я благодарю",
-    "messageText": 54
+    "messageText": 54,
+    "chord": "G",
+    "themes": ["9e8432ec-c36b-4252-9726-49d7a6e6c0ad"]
   },
   {
     "id": 855470401,
@@ -518,7 +528,12 @@
     "id": 815567901,
     "number": 59,
     "title": "Бывали в жизни трудные минуты",
-    "messageText": 230
+    "messageText": 230,
+    "chord": "D",
+    "themes": [
+      "2a7295d1-4477-4eb8-a533-c4cc489a68fa",
+      "819c9fa2-430f-4c17-bf71-1b31234f9710"
+    ]
   },
   {
     "id": 551029800,
