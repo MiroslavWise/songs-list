@@ -656,14 +656,25 @@
     "number": 79,
     "title": "Чудный Спаситель",
     "messageText": 247,
-    "youtube": "https://youtu.be/JZoH6s_z_sQ?si=fIcDmBkAm6JX5bjB"
+    "youtube": "https://youtu.be/JZoH6s_z_sQ?si=fIcDmBkAm6JX5bjB",
+    "chord": "E",
+    "themes": [
+      "31a8dea9-2699-4272-9716-027e4963f476",
+      "5a952559-baf6-45a3-a97e-692e1907c430",
+      "ef5b5510-2324-49aa-ab73-2c08a8f52ff6"
+    ]
   },
   {
     "id": 598558765,
     "number": 80,
     "title": "Бездонная любовь",
     "messageText": 248,
-    "youtube": "https://youtu.be/DG3FxiRcWPc?si=7_jTzqkPJmbBA3ID"
+    "youtube": "https://youtu.be/DG3FxiRcWPc?si=7_jTzqkPJmbBA3ID",
+    "chord": "H",
+    "themes": [
+      "31a8dea9-2699-4272-9716-027e4963f476",
+      "373a10ce-1c53-4c04-a28e-ff5b28a27242"
+    ]
   },
   {
     "id": 701921609,
@@ -689,7 +700,12 @@
     "number": 83,
     "title": "Есть много дорог, и много путей (Ведь со мною Иисус)",
     "messageText": 252,
-    "youtube": "https://youtu.be/Qjz6agFOhI8?si=qJSW_vnfPpjyogwr"
+    "youtube": "https://youtu.be/Qjz6agFOhI8?si=qJSW_vnfPpjyogwr",
+    "chord": "A",
+    "themes": [
+      "2a7295d1-4477-4eb8-a533-c4cc489a68fa",
+      "52e5ea3f-875b-4b5d-9c4d-4b22b7257f5b"
+    ]
   },
   {
     "id": 260632855,
