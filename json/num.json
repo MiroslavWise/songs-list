@@ -718,10 +718,17 @@
     "messageText": 256
   },
   {
-    "id": 599979516,
+    "id": 444995824,
     "number": 88,
-    "title": "Верую я",
-    "messageText": 104
+    "title": "Верую я (Верую в Бога Единого)",
+    "messageText": 104,
+    "messageDocs": 105,
+    "youtube": "https://youtu.be/feOmq-oElrY?si=kgyQBc6wpW6R6utE",
+    "chord": "H",
+    "themes": [
+      "25b3fa24-abbf-40f4-9b49-f0713c5d16de",
+      "52e5ea3f-875b-4b5d-9c4d-4b22b7257f5b"
+    ]
   },
   {
     "id": 344227870,
@@ -749,7 +756,12 @@
     "id": 453002613,
     "number": 91,
     "title": "Твоё Имя прекрасно, Бог",
-    "messageText": 259
+    "messageText": 259,
+    "chord": "D",
+    "themes": [
+      "373a10ce-1c53-4c04-a28e-ff5b28a27242",
+      "31a8dea9-2699-4272-9716-027e4963f476"
+    ]
   },
   {
     "id": 991152625,
