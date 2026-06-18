@@ -194,7 +194,9 @@
     "title": "Свят Господь (Ты ярче, чем солнца свет)",
     "messageText": 166,
     "messageDocs": 167,
-    "youtube": "https://youtu.be/it-PNigT3EM?si=cIZO3VRW_qKG3LB1"
+    "youtube": "https://youtu.be/it-PNigT3EM?si=cIZO3VRW_qKG3LB1",
+    "chord": "E",
+    "themes": ["373a10ce-1c53-4c04-a28e-ff5b28a27242"]
   },
   {
     "id": 787584678,
@@ -304,7 +306,12 @@
     "title": "На небесах Ходатай мой",
     "messageText": 195,
     "messageDocs": 196,
-    "youtube": "https://youtu.be/jFRwSndg0F4?si=hvGL2wIb9hO0iJrN"
+    "youtube": "https://youtu.be/jFRwSndg0F4?si=hvGL2wIb9hO0iJrN",
+    "chord": "D",
+    "themes": [
+      "2a7295d1-4477-4eb8-a533-c4cc489a68fa",
+      "52e5ea3f-875b-4b5d-9c4d-4b22b7257f5b"
+    ]
   },
   {
     "id": 530920170,

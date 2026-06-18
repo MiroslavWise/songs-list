@@ -366,13 +366,16 @@
     "id": 328424545,
     "number": 1573,
     "title": "Как прекрасно всё то, что Твоё",
-    "messageText": 269
+    "messageText": 269,
+    "chord": "A",
+    "themes": ["373a10ce-1c53-4c04-a28e-ff5b28a27242"]
   },
   {
     "id": 824226694,
     "number": 1611,
     "title": "Церковь Божия, все вместе",
-    "messageText": 270
+    "messageText": 270,
+    "themes": ["2a9c7669-7ac9-499f-b9b4-3ed29c019efb"]
   },
   {
     "id": 518405617,
